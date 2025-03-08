@@ -1,0 +1,4 @@
+Yes, after rebasing your feature branch onto master, you must push the updated branch. However, since rebase rewrites commit history, you need to force push the branch to update the remote repository. The correct steps are:
+
+Steps to Rebase and Push a Feature Branch
+Switch to the feature branch
