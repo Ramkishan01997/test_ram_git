@@ -1,0 +1,110 @@
+Basic Java Programs
+Hello World
+Print Numbers from 1 to N
+Check Even or Odd
+Find Largest of Two Numbers
+Check for Prime Number
+Reverse a Number
+Check for Palindrome Number
+Sum of Digits of a Number
+Factorial of a Number
+Fibonacci Series
+String Programs
+Reverse a String
+Check for Palindrome String
+Count Vowels and Consonants in a String
+Find Duplicate Characters in a String
+Check if Two Strings are Anagrams
+Count Words in a Sentence
+Convert String to Uppercase & Lowercase
+Remove White Spaces from a String
+Check if a String Contains Only Digits
+Sort Characters in a String
+Array Programs
+Find Largest Element in an Array
+Find Second Largest Element in an Array
+Find Duplicate Elements in an Array
+Reverse an Array
+Sort an Array (Bubble Sort, Selection Sort, QuickSort, MergeSort)
+Merge Two Arrays
+Find Missing Number in an Array
+Remove Duplicates from an Array
+Find Sum of All Elements in an Array
+Find the Intersection of Two Arrays
+OOPs (Object-Oriented Programming) Concepts
+Class and Object Example
+Constructor Overloading Example
+Method Overloading Example
+Method Overriding Example
+Encapsulation Example
+Inheritance Example
+Abstraction (Using Abstract Class and Interface)
+Polymorphism Example
+Static and Instance Methods Example
+Singleton Class Example
+Collection Framework Programs
+ArrayList Example (Add, Remove, Iterate)
+LinkedList Example
+HashSet Example
+TreeSet Example
+HashMap Example (Key-Value Operations)
+Sort a List Using Comparator and Comparable
+Convert List to Set and Vice Versa
+Convert HashMap to List
+Find Frequency of Elements in a List
+Find First Non-Repeating Character in a String Using Map
+Multi-Threading Programs
+Create Thread Using Thread Class
+Create Thread Using Runnable Interface
+Thread Synchronization Example
+Deadlock Scenario in Multi-threading
+Thread Communication (Wait, Notify, NotifyAll)
+Thread Pool Example Using Executor Service
+Callable and Future Example
+Producer-Consumer Problem Using BlockingQueue
+Daemon Thread Example
+Reentrant Lock Example
+File Handling Programs
+Read a File Using FileReader
+Write to a File Using FileWriter
+Copy Content from One File to Another
+Count Number of Words in a File
+Read a File Using BufferedReader
+Read and Write Using FileInputStream and FileOutputStream
+Delete a File
+List All Files in a Directory
+Serialize and Deserialize an Object
+Append Data to an Existing File
+Exception Handling Programs
+Try-Catch Example
+Multiple Catch Blocks Example
+Throw and Throws Example
+Custom Exception Handling Example
+Finally Block Example
+Checked vs Unchecked Exception Example
+Nested Try-Catch Example
+Handling NullPointerException
+ArithmeticException Example
+Handling IOException
+Java 8 Features
+Lambda Expression Example
+Functional Interface Example
+Stream API Example (Filter, Map, Reduce)
+Optional Class Example
+Method References Example
+Collectors Example (Grouping, Partitioning, Joining)
+Date and Time API Example
+Parallel Streams Example
+Default and Static Methods in Interface Example
+Predicate, Function, and Consumer Examples
+Data Structures and Algorithms in Java
+LinkedList Implementation
+Stack Implementation Using Array and LinkedList
+Queue Implementation Using Array and LinkedList
+Binary Search Tree (BST) Implementation
+Graph Representation and BFS/DFS Traversal
+Dijkstra’s Algorithm for Shortest Path
+Trie Data Structure Implementation
+Heap (Min Heap and Max Heap) Implementation
+QuickSort Algorithm Implementation
+MergeSort Algorithm Implementation
